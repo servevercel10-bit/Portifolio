@@ -5,7 +5,6 @@ node_modules
 .env
 .env.local
 .env.*.local
-pnpm-lock.yaml
 .DS_Store
 .idea
 .vscode
